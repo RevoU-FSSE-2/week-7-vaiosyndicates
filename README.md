@@ -14,7 +14,7 @@ Technology nowadays, changing our life in many aspects, especially in financial 
 
 
 ## Deployment
-You can access the live version of the website by click this link: [https://jejakjejaka.netlify.app/](https://jejakjejaka.netlify.app/).
+You can access the live version of the website by click this link: [https://moonlit-marzipan-334b30.netlify.app](https://moonlit-marzipan-334b30.netlify.app).
 
 Feel free to edit or rebuild this site for personal purpose
 
