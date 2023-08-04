@@ -1,0 +1,43 @@
+body,html {
+  height: 100%;
+  background-color: #1a1924;
+}
+
+.heading h1 {
+  text-align: center;
+  color: #525fe1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form-section {
+  padding: 3%;
+  background-color: #2f2e39;
+}
+
+h4, p {
+  color: antiquewhite;
+}
+.wrapper {
+  margin-top:5%
+}
+.wrapper-heading {
+  margin: 5% 0;
+}
+
+.row-item {
+  padding: 2%;
+  margin: 2% 0;
+}
+.row-item-green {
+  background-color: darkgreen;
+  border-radius: 2%;
+}
+
+.row-item-red {
+  background-color: darkred;
+  border-radius: 2%;
+
+}
+.button-right {
+  text-align: end;
+}
